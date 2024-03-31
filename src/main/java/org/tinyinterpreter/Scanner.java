@@ -1,6 +1,5 @@
 package org.tinyinterpreter;
 
-import javax.xml.stream.events.Comment;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
